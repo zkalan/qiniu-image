@@ -1,0 +1,7 @@
+.idea
+com/zkalan/test/build
+com/zkalan/test/dist
+com/zkalan/test/.qiniu_pythonsdk_hostscache.json
+com/zkalan/test/demo.spec
+com/zkalan/test/settings.cfg
+com/zkalan/utils/.qiniu_pythonsdk_hostscache.json
